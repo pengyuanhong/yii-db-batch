@@ -1,0 +1,17 @@
+{
+    "name": "pengyuanhong/yii-db-batch",
+    "description": "Yii db batch helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pengyuanhong",
+            "email": "421798964@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pengyuanhong\\yii-db-batch\\": "src/"
+        }
+    }
+}
