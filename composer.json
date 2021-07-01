@@ -1,6 +1,8 @@
 {
     "name": "pengyuanhong/yii-db-batch",
     "description": "Yii db batch helper",
+    "keywords": ["yii", "yii2", "db", "batch", "db-batch", "helper"],
+    "type": "yii2-extension",
     "license": "MIT",
     "authors": [
         {
