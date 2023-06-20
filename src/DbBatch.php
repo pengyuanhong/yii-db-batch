@@ -6,7 +6,7 @@
  * Time: 11:10 AM
  */
 
-namespace YiiDbBatch;
+namespace Pengyuanhong\YiiDbBatch;
 
 
 class DbBatch
