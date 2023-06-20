@@ -10,6 +10,7 @@
             "email": "421798964@qq.com"
         }
     ],
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
