@@ -18,5 +18,6 @@
         "psr-4": {
             "Pengyuanhong\\YiiDbBatch\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
